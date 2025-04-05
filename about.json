@@ -1,10 +1,10 @@
 {
-  "name": "Air Theme",
+  "name": "Air Theme TEST",
   "component": false,
-  "license_url": null,
-  "about_url": null,
-  "authors": null,
-  "theme_version": null,
+  "license_url": "https://github.com/studiofuga/discourse-air-dontpanic/blob/main/LICENSE",
+  "about_url": "https://github.com/studiofuga/discourse-air-dontpanic",
+  "authors": "Don't Panic 10 team",
+  "theme_version": "1.0.0",
   "minimum_discourse_version": null,
   "maximum_discourse_version": null,
   "assets": {
@@ -35,6 +35,8 @@
       "love": "c16ad7"
     }
   },
+  "components": [
+  ],
   "modifiers": {
     "serialize_topic_excerpts": true
   },
