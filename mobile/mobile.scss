@@ -207,5 +207,9 @@ ol.category-breadcrumb {
 }
 
 .list-controls .nav-pills .list-control-toggle-link-trigger {
-  color: var(--secondary);
+  padding: 8px;
+  color: var(--primary-high);
+  border-color: var(--primary-low);
+  border-radius: 8px;
+  background-color: var(--primary-low);
 }
